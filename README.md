@@ -1,0 +1,3 @@
+# LeiterApp
+Leiter &amp; Schlangen App - AAU Uni Klagenfurt
+...
